@@ -32,4 +32,6 @@ People not from the area need to open tickets to be members of the appropriate g
 
    DevOps TL approves/disapproves the request
 
-[See the presentation](Presentations/Permissions_Management_System_Presentation.pdf)
+[See the PPT presentation](Presentations/Permissions_Management_System_Presentation.pdf)
+
+[See the video presentation](https://drive.google.com/file/d/17Q6ydpcO3g2sl9gGfeOjV5IwYqgsV-VR/view?usp=sharing)
