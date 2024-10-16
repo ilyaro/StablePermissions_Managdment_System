@@ -34,9 +34,6 @@ In case of reorg or adding new people, the TL must manually edit those groups an
 
 People not from the area need to open tickets to be members of the appropriate group:
 
-DevOps TL approves/disapproves the request
+   DevOps TL approves/disapproves the request
 
-readonly 
-operations
-developers
-admins
+[See the presentation](Presentations/Permissions_Management_System_Presentation.pdf)
