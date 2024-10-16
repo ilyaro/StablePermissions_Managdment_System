@@ -17,7 +17,7 @@ Those 4 role based AD and Azure AD flat groups need to be added to other groups 
 
 Those 4 groups are very stable to any organizational changes, synced automatically, and the whole process is managed by the DevOps team only.
 
-The groups are synced from the appropriate AD groups ( readonly, operations, developers, admins ) which are filled by real ORG HR groups 
+The groups are synced from the appropriate AD groups ( readonly, operations, developers, admins ) which are filled by the real ORG HR groups or members manually 
 
 The groups are synced automatically by pipeline by this script [sync_ad_groups.ps1](src/sync_ad_groups.ps1)
 
