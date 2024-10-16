@@ -5,13 +5,13 @@ Access to all resources of Harmony Connect needs to be given by role base access
 
 By 4 main roles flat groups all area is divided:
 
-admins-flat
+- admins-flat
 
-operations-flat
+- operations-flat
 
-developers-flat
+- developers-flat
 
-readonly-flat
+- readonly-flat
 
 
 Those 4 role based AD and Azure AD flat groups need to be added to other groups that give access to any resources
