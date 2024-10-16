@@ -17,18 +17,14 @@ Those 4 role based AD and Azure AD flat groups need to be added to other groups 
 
 Those 4 groups are very stable to any organizational changes, synced automatically, and the whole process is managed by the DevOps team only.
 
-The groups are synced from the appropriate AD groups ( readonly, operations, developers, admins ) which are filled by the real ORG HR groups or members manually 
+The groups are synced from the appropriate AD groups ( readonly, operations, developers, admins ) which are filled by the real ORG HR groups or members manually by by DevOps TL. 
 
 The groups are synced automatically by pipeline by this script [sync_ad_groups.ps1](src/sync_ad_groups.ps1)
 
-New relevant employees are added to operations and admins after 10 days in the company automatically, no need to open tickets
-
+New relevant employees are added to operations and admins after 10 days in the company automatically, no need to open tickets, 
 To allow users to learn before they get PRD access
 
-Read-only access is given immediately
-
-
-Groups below are managed by DevOps TL.
+Read-only access is given immediately by pipeline
 
 In case of reorg or adding new people, the TL must manually edit those groups and add/remove the relevant groups/ppl.
 
