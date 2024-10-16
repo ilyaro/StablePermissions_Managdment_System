@@ -19,7 +19,7 @@ Those 4 groups are very stable to any organizational changes, synced automatical
 
 The groups are synced from the appropriate AD groups ( readonly, operations, developers, admins ) which are filled by real ORG HR groups 
 
-The groups are synced automatically by pipeline
+The groups are synced automatically by pipeline by this script [sync_ad_groups.ps1](src/sync_ad_groups.ps1)
 
 New relevant employees are added to operations and admins after 10 days in the company automatically, no need to open tickets
 
