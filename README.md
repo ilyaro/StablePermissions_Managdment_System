@@ -1,9 +1,8 @@
-A stable and controlled by code role-based permissions management system for organizations
+# A stable and controlled by code role-based permissions management system for organizations
 
+Access to all resources of area needs to be given by role base access RBAC 
 
-Access to all resources of Harmony Connect needs to be given by role base access RBAC 
-
-By 4 main roles flat groups all area is divided:
+### By 4 main roles flat groups all area is divided:
 
 - admins-flat
 
